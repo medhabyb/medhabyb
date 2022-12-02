@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, It's Mohamed Habib Soula</h1>
 <h3 align="center">A passionate Cross-platform mobile developer as well as an intermediate Game Developerfrom Tunisia. 🇹🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</img>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medhabyb" alt="medhabyb" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on [Netflix UI clone (with backend)](https://github.com/medhabyb/netflix_clone)
 
